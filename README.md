@@ -5,7 +5,7 @@
 This is a project developed for discovering interesting phenomena behind data provided by Airbnb officially.
 
 * `src`：containing data, source code and notebooks.
-* `analysis report`: a data report written in Chinese, only as a template to show what you can do with the resources.
+* [analysis report.pdf](analysis report.pdf) : a data report written in Chinese, only as a template to show what you can do with the resources.
 
 ## Environment
 
