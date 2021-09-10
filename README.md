@@ -1,6 +1,6 @@
 # Airbnb Data Mining
 
-## Abstract
+## Overview
 
 This is a project developed for discovering interesting phenomena behind data provided by Airbnb officially.
 
@@ -25,3 +25,8 @@ This is a project developed for discovering interesting phenomena behind data pr
 * Room location distribution in Beijing
 
   <img src="https://i.loli.net/2021/06/22/R1iFa9JSIp4KDWo.png" alt="image-20210622154408293" style="zoom:80%;" />
+
+## Reference
+
+* BUAA Big Data Analysis Course, Spring 2021.
+* [Airbnb Official Rental Data](https://www.airbnb.com/).
